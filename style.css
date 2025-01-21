@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(185, 126, 126);
+    text-align: center;
+}
+.heading{
+    color: rgb(48, 3, 3);
+    text-align: center;
+    font-size: 30px;
+}
+.game{
+    font-size: 50px;
+    margin-top: 40px;
+}
+.guess{
+    box-sizing: border-box;
+    background-color: pink;
+    padding: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 250px;
+    color: rgb(175, 15, 66);
+    text-align: center;
+    font-size: 40px;
+}
+.button{
+    border-radius: 10px;
+    background-color: rgb(134, 6, 6);
+    color: palevioletred;
+    font-size: 40px;
+    margin-top: 80px;
+    cursor: pointer;
+}
+.records{
+    margin-top: 30px;
+    font-size:  20px;
+}
+#newGame{
+    cursor: pointer;
+    background-color: pink;
+    padding: 10px;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 300px;
+    color: rgb(175, 15, 66);
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px; 
+}
