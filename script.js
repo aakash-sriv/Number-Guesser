@@ -89,7 +89,7 @@ function startnewgame(){
         remaining.innerHTML = 10;
         guess1.removeAttribute('disabled');
         records.removeChild(p);
-        // displaymessage = '';
+        displaymessage('');
         playgame = true;
 
     });
