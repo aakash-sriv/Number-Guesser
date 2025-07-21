@@ -50,10 +50,10 @@ function checkguess(guess){
         endgame();
     }
     else if(guess<randomnumber){
-        displaymessage(`You can get to ur answer if u just slightly decrease it🥺`);
+        displaymessage(`You can get to ur answer if u just slightly increase it🥺`);
     }
     else if(guess>randomnumber){
-        displaymessage(`You can get to ur answer if u just slightly increase it🥺`);
+        displaymessage(`You can get to ur answer if u just slightly decrease it🥺`);
     }
 }
 
